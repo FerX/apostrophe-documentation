@@ -142,7 +142,7 @@ Example:
   name: 'thumbnail',
   label: 'Thumbnail',
   type: 'singleton',
-  widgetType: 'slideshow',
+  widgetType: 'apostrophe-images',
   options: {
     aspectRatio: [ 4, 3 ],
     minSize: [ 400, 300 ],
